@@ -1,0 +1,21 @@
+{
+  "name": "so_ui_SnapMenu",
+  "version": "0.0.0",
+  "description": "A side snap menu using Snapjs",
+  "style": "src/index.css",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JSSL/ui_SnapMenu.git"
+  },
+  "keywords": [
+    "ui"
+  ],
+  "author": "davetayls <dave.taylor@pogokid.com>",
+  "bugs": {
+    "url": "https://github.com/JSSL/ui_SnapMenu/issues"
+  },
+  "homepage": "https://github.com/JSSL/ui_SnapMenu"
+}
