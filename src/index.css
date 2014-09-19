@@ -13,11 +13,11 @@
   width: var(--SnapMenu-width);
   top: 0;
   bottom: 0;
-  left: calc(@width * -1);
+  right: calc(@width * -1);
 
   padding: 200px var(--SnapMenu-padding-sides) 20px;
   background: var(--SnapMenu-background);
-  border-right: var(--SnapMenu-border-right);
+  border-left: var(--SnapMenu-border-right);
 
   transition: transform .2s ease .15s;
 }
@@ -38,7 +38,7 @@
 }
 
 .SnapMenu--open .SnapMenu__drawer {
-  transform: translateX(var(--SnapMenu-width));
+  transform: translateX(calc(var(--SnapMenu-width) * -1));
 }
 
 .SnapMenu--open .SnapMenu__dismiss {
