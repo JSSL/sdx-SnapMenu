@@ -1,8 +1,8 @@
 
 :root {
   --SnapMenu-background: white;
-  --SnapMenu-border-right: solid 2px var(--c-orange);
-  --SnapMenu-padding-sides: var(--size-baseline);
+  --SnapMenu-border-right: solid 2px var(--Palette__orange);
+  --SnapMenu-padding-sides: var(--Core__baseline);
   --SnapMenu-width: 300px;
   --SnapMenu-dismiss-bg: rgba(0, 0, 0, 0.3);
 }
