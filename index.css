@@ -9,7 +9,7 @@
 
 .SnapMenu__drawer {
   position: fixed;
-  z-index: 2;
+  z-index: 100;
   width: var(--SnapMenu-width);
   top: 0;
   bottom: 0;
