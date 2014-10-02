@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/JSSL/ui_SnapMenu.git"
+    "url": "git://github.com/JSSL/sdx-SnapMenu.git"
   },
   "keywords": [
     "ui"
   ],
   "author": "davetayls <dave.taylor@pogokid.com>",
   "bugs": {
-    "url": "https://github.com/JSSL/ui_SnapMenu/issues"
+    "url": "https://github.com/JSSL/sdx-SnapMenu/issues"
   },
-  "homepage": "https://github.com/JSSL/ui_SnapMenu"
+  "homepage": "https://github.com/JSSL/sdx-SnapMenu"
 }
