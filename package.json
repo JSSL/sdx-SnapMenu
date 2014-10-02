@@ -1,5 +1,5 @@
 {
-  "name": "so_ui_SnapMenu",
+  "name": "sdx-SnapMenu",
   "version": "0.0.0",
   "description": "A side snap menu using Snapjs",
   "style": "index.css",
